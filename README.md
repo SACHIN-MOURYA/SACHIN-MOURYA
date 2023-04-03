@@ -16,7 +16,7 @@
 <a href="https://www.codechef.com/users/sachin_mourya1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sachin_mourya1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mauryasachin2431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mauryasachin2431" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sachin243601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sachin243601" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mauryasachin24360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mauryasachin24360" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mauryasachin243601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mauryasachin24360" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mauryasach7d5v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mauryasach7d5v" height="30" width="40" /></a>
 </p>
 
